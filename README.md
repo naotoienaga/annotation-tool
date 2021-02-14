@@ -1,7 +1,7 @@
 # annotation-tool
 Semi automatic annotation tool
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naotoienaga/annotation-tool/blob/master/semi-automatic_gesture_annotation_tool.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naotoienaga/annotation-tool/blob/master/notebooks/semi-automatic_gesture_annotation_tool.ipynb)
 
 
 ## Requirements
