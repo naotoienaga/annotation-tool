@@ -1,6 +1,8 @@
 # annotation-tool
 Semi automatic annotation tool
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naotoienaga/annotation-tool/blob/master/semi-automatic_gesture_annotation_tool.ipynb)
+
 
 ## Requirements
 The code was tested with python 3.6.8, opencv 4.1.1, lightgbm 2.2.4, and anaconda.
