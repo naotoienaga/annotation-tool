@@ -1,10 +1,10 @@
 # annotation-tool
-Semi automatic annotation tool
+Semi-automation of Gesture Annotation by Machine Learning and Human Collaboration
+Naoto Ienaga, Alice Cravotta, Kei Terayama, Bryan W. Scotney, Hideo Saito, M. Grazia Busà
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naotoienaga/annotation-tool/blob/master/notebooks/semi-automatic_gesture_annotation_tool.ipynb)
 
-## Requirements
-The code was tested with python 3.6.8, opencv 4.1.1, lightgbm 2.2.4, and anaconda.
 
 ## Usage
 - Use [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) to detect key points of the video and annotate part of the input video. Annotate at least one rest and gesture (Any tire name is ok other than PREDICTED and QUERY).
