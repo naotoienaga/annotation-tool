@@ -1,5 +1,4 @@
 This repository provides the public code of a paper titled, "Semi-automation of Gesture Annotation by Machine Learning and Human Collaboration"
-
 (authors: Naoto Ienaga, Alice Cravotta, Kei Terayama, Bryan W. Scotney, Hideo Saito, M. Grazia Busà)
 
 This code can be run on Colab so that the environment setup is not needed.
